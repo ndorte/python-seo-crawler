@@ -65,7 +65,6 @@ for tara in taranacaklar:
                                 or link["href"][:30] == "http://reddit.com/submit?url=h" \
                                 or link["href"][:30] == "http://vk.com/share.php?url=ht" \
                                 or link["href"][:30] == "http://www.tumblr.com/share/li" \
-                                or link["href"][:30] == "https://e-rapor.prosafety.com." \
                                 or link["href"][:30] == "http://linkedin.com/shareArtic" \
                                 or link["href"][:30] == "http://pinterest.com/pin/creat" \
                                 or link["href"][:30] == "https://plus.google.com/share?":
